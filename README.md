@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**dtechshoemaker/dtechshoemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👞 Peter Kimbeghi - Full Stack Developer
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm Peter Kimbeghi, a former shoemaker turned tech enthusiast. In 2022, I embarked on a journey into the tech world, starting as a Frontend Developer using React JS and later transitioning into Backend Development with Python Django. Now, I proudly function as a Full Stack Developer, proficient in front and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### Frontend
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React JS, Tailwind CSS, Bootstrap
+- **Tools:** Webpack, Babel, NPM/Yarn
+
+### Backend
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Tools:** Docker
+
+### Full Stack
+- **API Development:** RESTful APIs, GraphQL
+- **Authentication:** JWT, OAuth
+- **Testing:** Jest, Enzyme (Frontend), PyTest, Unittest (Backend)
+- **CI/CD:** GitHub Actions, Travis CI
+
+## 🏆 Experience
+- **Technical Writing:** Passionate about sharing knowledge. Check out my content [here](https://github.com/dtechshoemaker).
+
+## 📂 Projects
+- [Chat App](https://github.com/dtechshoemaker/chat-app) 📱
+  - A real-time group video calling application using the Agora Web SDK with a Django backend.
+- [Spotify Clone](https://github.com/dtechshoemaker/spotify-clone) 🎵
+  - A music streaming application inspired by Spotify, using Django Template Engine for the front end and Django for the back end.
+
+## 🌐 Connect with Me
+- **GitHub:** [dtechshoemaker](https://github.com/dtechshoemaker)
+- **LinkedIn:** [Peter Kimbeghi](https://www.linkedin.com/in/peter-kimbeghi)
+- **Twitter:** [@dtechshoemaker](https://twitter.com/dtechshoemaker)
+
+Let's build something amazing together! 🚀
+
