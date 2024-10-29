@@ -1,5 +1,5 @@
 
-## 👞 Peter Kimbeghi - Full Stack Developer
+# 👞 Peter Kimbeghi - Full Stack Developer
 
 ## About Me
 Hello! I'm Peter Kimbeghi, a former shoemaker turned tech enthusiast. In 2022, I embarked on a journey into the tech world, starting as a no-code developer using WordPress for websites and bubble for web applications then transitioned to code as a Frontend Developer using React JS and later transitioning into Backend Development with Python Django. Now, I proudly function as a Full Stack Developer, proficient in front and backend technologies. Offering my skills on freelance platforms like [fiver](https://www.fiverr.com/peterkim1)
